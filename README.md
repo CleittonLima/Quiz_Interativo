@@ -1,10 +1,10 @@
 # Quiz Interativo para Programadores
 
-### 🚨 ATENÇÃO!
+### ATENÇÃO!
 Este quiz foi desenvolvido com a intenção de **aprender e praticar HTML e CSS**.  
 Não é um projeto profissional, mas um exercício de estudos e aperfeiçoamento de habilidades!
 
-## 📚 Sobre o Projeto
+## Sobre o Projeto
 
 Este é um **quiz interativo** voltado para quem gosta de programação e deseja testar seus conhecimentos de forma divertida.  
 Foi criado usando **HTML5** e **CSS3**, abordando conceitos como:
@@ -20,7 +20,7 @@ Além disso, também foram utilizados recursos como:
 - Tags semânticas (`section`, `header`, `main`, `footer`, `details`, `summary`, `figure`, etc.)
 - Atributos de acessibilidade como `abbr` e uso de `alt` em imagens
 
-## 💡 Funcionalidades
+## Funcionalidades
 
 - Quiz com perguntas de múltipla escolha, texto livre, senha, data, seleção múltipla, upload de arquivo e seleção suspensa.
 - Tabela de pontuação para avaliar o desempenho do usuário.
@@ -28,7 +28,7 @@ Além disso, também foram utilizados recursos como:
 - Formulário de feedback para o usuário enviar suas opiniões.
 - Página extra "Sobre Mim" (em desenvolvimento).
 
-## 🎯 Objetivo de Aprendizado
+## Objetivo de Aprendizado
 
 O principal objetivo deste projeto é **praticar conceitos fundamentais** de desenvolvimento web, em especial:
 
@@ -43,7 +43,7 @@ O principal objetivo deste projeto é **praticar conceitos fundamentais** de des
 - Acrescentar **validações** e **interatividade** usando JavaScript
 - Deixar o projeto mais responsivo para dispositivos móveis
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5
 - CSS3

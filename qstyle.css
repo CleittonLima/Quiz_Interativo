@@ -113,7 +113,7 @@ ol li {
 
 fieldset {
     color: #1c0021;
-    border: 2px solid #a9cba6;
+    border: 0.1rem solid #a9cba6;
     border-radius: 10px;
     padding: 1rem;
 }
